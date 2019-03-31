@@ -1,13 +1,1 @@
-
- Git Install
-
-make prefix=/usr/local/git all
-
-make prefix=/usr/local/git install
-
-write git notes 
-git clone git@github.com:i-china/i-china.git
-git clone git@github.com:i-china/i-china.git china
-
-
 hi
